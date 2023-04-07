@@ -1,0 +1,27 @@
+.Navbar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 10vh;
+    color: white;
+    background-color: black;
+}
+.Navbar ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 30%;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+.Navbar button{
+    padding: 0.2rem 1rem;
+    border-radius: 8px;
+}
+.Navbar Span{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 20%;
+}
